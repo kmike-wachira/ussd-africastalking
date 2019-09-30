@@ -1,3 +1,4 @@
+<h1>Africas talking</h1>
 <?php
 // Reads the variables sent via POST from our gateway
 $sessionId   = $_POST["sessionId"];
